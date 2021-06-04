@@ -1,0 +1,1 @@
+# Backtesting-of-a-Basic-Decision-Mechanism-on-Buying-or-Selling-on-a-Randomly-Generated-Stock-Chart
